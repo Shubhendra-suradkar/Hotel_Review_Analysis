@@ -90,6 +90,7 @@ data_count <- data_count %>%
 ---
 #### Sentiment Analysis of Aurangabad Hotel Reviews.
 Discover the heartbeat of customer experiences, sentiments.
+![326801064-ed576cad-3e91-40d2-9254-3e38a4bd2e2d](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/e8da672e-0c7c-47d8-8497-3ec7463009ca)
 
 
 ---
@@ -97,17 +98,18 @@ Discover the heartbeat of customer experiences, sentiments.
   
   The graph highlights significant associations between words, offering insights into prevalent topics and themes discussed in the reviews.
   
+![326783695-e70b254c-42af-4b59-9352-373a2444b1f9](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/9e9aed28-c493-40a5-8b4f-383d6ecdac81)
 
 
 ---
 #### Positive Sentiment Network.
 Mapping the Bright Side of Aurangabad Hotel Reviews. The interconnected web of positivity within TripAdvisor feedback, showcasing the sunny side of customer experiences in Aurangabad's hospitality sector.
-
+![eb5470fc-401d-44c3-a6d5-70fc0c17cacf](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/d776de21-31ec-4f15-b86c-4b15f1c1ed87)
 
 ---
 #### Negative Sentiment Network.
 Navigating the Shadows of Aurangabad Hotel Reviews. The interconnected web of negativity within TripAdvisor feedback, shedding light on areas for improvement in Aurangabad's hospitality sector.
-
+![7a913f51-e11b-4988-9b51-037fd8c5d37c](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/9b74d059-cc37-4aa4-b6b2-764307368aad)
 ---
 ### Findings
 #### Sentiment Analysis Results:
@@ -119,13 +121,13 @@ Navigating the Shadows of Aurangabad Hotel Reviews. The interconnected web of ne
 --- 
 #### Negative Sentiment Words:
 Negative sentiments are associated with words like "dirty," "costly," "disappoint," and "shocked," pinpointing areas for improvement.
-![7a913f51-e11b-4988-9b51-037fd8c5d37c](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/9b74d059-cc37-4aa4-b6b2-764307368aad)
+
 
 ---
 
 #### Positive Sentiment Words:
 Positive sentiments are linked to terms like "excellent," "friendly," and "fantastic," reflecting satisfaction with various aspects of the hotel experience.
-![eb5470fc-401d-44c3-a6d5-70fc0c17cacf](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/d776de21-31ec-4f15-b86c-4b15f1c1ed87)
+
 
 ---
 #### Co-occuring Word Relationships in Aurangabad Hotel Reviews:
