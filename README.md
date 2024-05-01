@@ -84,6 +84,7 @@ data_count <- data_count %>%
   mutate(word = factor(word, levels = word[order(-n)]))
 
 ~~~
+![bc8a0697-2ac9-4e1f-b3a5-2d7a4b8b0c9d](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/bc571ec5-fd0e-4741-8ae5-73b7224c55bf)
 
 
 ---
@@ -118,11 +119,13 @@ Navigating the Shadows of Aurangabad Hotel Reviews. The interconnected web of ne
 --- 
 #### Negative Sentiment Words:
 Negative sentiments are associated with words like "dirty," "costly," "disappoint," and "shocked," pinpointing areas for improvement.
+![7a913f51-e11b-4988-9b51-037fd8c5d37c](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/9b74d059-cc37-4aa4-b6b2-764307368aad)
 
 ---
 
 #### Positive Sentiment Words:
 Positive sentiments are linked to terms like "excellent," "friendly," and "fantastic," reflecting satisfaction with various aspects of the hotel experience.
+![eb5470fc-401d-44c3-a6d5-70fc0c17cacf](https://github.com/Shubhendra-suradkar/Hotel_Review_Analysis/assets/162418826/d776de21-31ec-4f15-b86c-4b15f1c1ed87)
 
 ---
 #### Co-occuring Word Relationships in Aurangabad Hotel Reviews:
